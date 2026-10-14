@@ -1,0 +1,8 @@
+numpy>=1.26
+sounddevice>=0.5.0
+pyserial>=3.5
+bleak>=0.22.0
+pybricksdev>=1.1.0
+pyusb>=1.2.1
+libusb-package>=1.0.30
+PyAudioWPatch>=0.2.12.9
